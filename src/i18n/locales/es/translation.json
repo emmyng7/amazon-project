@@ -1,0 +1,70 @@
+{
+  "navbar": {
+    "search": "Buscar productos...",
+    "deliverTo": "Entregar a",
+    "wishlist": "Lista de deseos",
+    "cart": "Carrito",
+    "returns": "Devoluciones",
+    "orders": "& Pedidos",
+    "hello": "Hola",
+    "signin": "Iniciar sesión",
+    "signout": "Cerrar sesión",
+    "account": "Cuenta y listas",
+    "all": "Todo"
+  },
+
+  "buttons": {
+    "addToCart": "Agregar al carrito",
+    "addToWishlist": "Agregar a favoritos",
+    "shopNow": "Comprar ahora",
+    "seeMore": "Ver más",
+    "discoverMore": "Descubrir más",
+    "exploreAll": "Explorar todo",
+    "viewAllProducts": "Ver todos los productos",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "quickView": "Vista Rápida"
+  },
+
+  "home": {
+    "todaysDeals": "Ofertas del día",
+    "topPicks": "Nuestras mejores selecciones",
+    "recommended": "Recomendado para ti",
+    "bestSellers": "Más vendidos",
+    "gaming": "Accesorios para videojuegos",
+    "fashion": "Ofertas de moda",
+    "beauty": "Selección de belleza",
+    "homeEssentials": "Artículos para el hogar",
+    "newArrivals": "Novedades",
+    "refreshSpace": "Renueva tu espacio",
+    "noProducts": "No products found"
+  },
+
+  "filters": {
+    "title": "Filtros",
+    "price": "Precio",
+    "allPrices": "Todos los precios",
+    "under50": "Menos de $50",
+    "between": "$50 - $100",
+    "above100": "Más de $100",
+    "sortBy": "Ordenar por",
+    "featured": "Destacados",
+    "lowHigh": "Precio: de menor a mayor",
+    "highLow": "Precio: de mayor a menor",
+    "highestRated": "Mejor valorados"
+  },
+
+  "footer": {
+    "backToTop": "Volver arriba"
+  },
+  "promo": {
+  "gamingAccessories": "Gaming Accessories",
+  "fashionDeals": "Fashion Deals",
+  "homeEssentials": "Home Essentials",
+  "beautyPicks": "Beauty Picks",
+  "shopGaming": "Shop Gaming",
+  "seeAllDeals": "See All Deals",
+  "discoverMore": "Discover More",
+  "exploreNow": "Explore Now"
+}
+}

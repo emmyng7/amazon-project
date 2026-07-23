@@ -1,0 +1,71 @@
+{
+  "navbar": {
+    "search": "상품 검색...",
+    "deliverTo": "배송지",
+    "wishlist": "위시리스트",
+    "cart": "장바구니",
+    "returns": "반품",
+    "orders": "주문",
+    "hello": "안녕하세요",
+    "signin": "로그인",
+    "signout": "로그아웃",
+    "account": "계정 및 목록",
+    "all": "전체"
+  },
+
+  "buttons": {
+    "addToCart": "장바구니에 추가",
+    "addToWishlist": "위시리스트에 추가",
+    "shopNow": "지금 구매",
+    "seeMore": "더 보기",
+    "discoverMore": "더 알아보기",
+    "exploreAll": "모두 보기",
+    "viewAllProducts": "모든 상품 보기",
+    "previous": "이전",
+    "next": "다음",
+    "quickView": "빠른 보기"
+  },
+
+  "home": {
+    "todaysDeals": "오늘의 특가",
+    "topPicks": "추천 상품",
+    "recommended": "추천 상품",
+    "bestSellers": "베스트셀러",
+    "gaming": "게이밍 액세서리",
+    "fashion": "패션 특가",
+    "beauty": "뷰티 추천",
+    "homeEssentials": "생활 필수품",
+    "newArrivals": "신상품",
+    "refreshSpace": "공간 새롭게 꾸미기",
+    "noProducts": "상품을 찾을 수 없습니다"
+  },
+
+  "filters": {
+    "title": "필터",
+    "price": "가격",
+    "allPrices": "전체 가격",
+    "under50": "$50 이하",
+    "between": "$50 - $100",
+    "above100": "$100 이상",
+    "sortBy": "정렬",
+    "featured": "추천순",
+    "lowHigh": "가격 낮은순",
+    "highLow": "가격 높은순",
+    "highestRated": "평점 높은순"
+  },
+
+  "footer": {
+    "backToTop": "맨 위로"
+  },
+
+  "promo": {
+  "gamingAccessories": "Gaming Accessories",
+  "fashionDeals": "Fashion Deals",
+  "homeEssentials": "Home Essentials",
+  "beautyPicks": "Beauty Picks",
+  "shopGaming": "Shop Gaming",
+  "seeAllDeals": "See All Deals",
+  "discoverMore": "Discover More",
+  "exploreNow": "Explore Now"
+}
+}

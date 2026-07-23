@@ -1,0 +1,71 @@
+{
+  "navbar": {
+    "search": "Поиск товаров...",
+    "deliverTo": "Доставка в",
+    "wishlist": "Список желаний",
+    "cart": "Корзина",
+    "returns": "Возвраты",
+    "orders": "и Заказы",
+    "hello": "Здравствуйте",
+    "signin": "Войти",
+    "signout": "Выйти",
+    "account": "Аккаунт и списки",
+    "all": "Все"
+  },
+
+  "buttons": {
+    "addToCart": "Добавить в корзину",
+    "addToWishlist": "Добавить в список желаний",
+    "shopNow": "Купить сейчас",
+    "seeMore": "Подробнее",
+    "discoverMore": "Узнать больше",
+    "exploreAll": "Посмотреть все",
+    "viewAllProducts": "Посмотреть все товары",
+    "previous": "Назад",
+    "next": "Далее",
+    "quickView": "Быстрый просмотр"
+  },
+
+  "home": {
+    "todaysDeals": "Предложения дня",
+    "topPicks": "Лучший выбор для вас",
+    "recommended": "Рекомендуем для вас",
+    "bestSellers": "Бестселлеры",
+    "gaming": "Игровые аксессуары",
+    "fashion": "Модные предложения",
+    "beauty": "Товары для красоты",
+    "homeEssentials": "Товары для дома",
+    "newArrivals": "Новинки",
+    "refreshSpace": "Обновите свой дом",
+    "noProducts": "Товары не найдены"
+  },
+
+  "filters": {
+    "title": "Фильтры",
+    "price": "Цена",
+    "allPrices": "Все цены",
+    "under50": "До $50",
+    "between": "$50 - $100",
+    "above100": "Более $100",
+    "sortBy": "Сортировать",
+    "featured": "Рекомендуемые",
+    "lowHigh": "Цена: по возрастанию",
+    "highLow": "Цена: по убыванию",
+    "highestRated": "Самый высокий рейтинг"
+  },
+
+  "footer": {
+    "backToTop": "Наверх"
+  },
+
+  "promo": {
+  "gamingAccessories": "Gaming Accessories",
+  "fashionDeals": "Fashion Deals",
+  "homeEssentials": "Home Essentials",
+  "beautyPicks": "Beauty Picks",
+  "shopGaming": "Shop Gaming",
+  "seeAllDeals": "See All Deals",
+  "discoverMore": "Discover More",
+  "exploreNow": "Explore Now"
+}
+}

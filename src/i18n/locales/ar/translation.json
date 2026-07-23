@@ -1,0 +1,75 @@
+{
+    
+  "navbar": {
+    "search": "ابحث عن المنتجات...",
+    "deliverTo": "التوصيل إلى",
+    "wishlist": "قائمة الأمنيات",
+    "cart": "عربة التسوق",
+    "returns": "المرتجعات",
+    "orders": "والطلبات",
+    "hello": "مرحباً",
+    "signin": "تسجيل الدخول",
+    "signout": "تسجيل الخروج",
+    "account": "الحساب والقوائم",
+    "all": "الكل"
+  },
+
+  "buttons": {
+    "addToCart": "أضف إلى العربة",
+    "addToWishlist": "أضف إلى قائمة الأمنيات",
+    "shopNow": "تسوق الآن",
+    "seeMore": "عرض المزيد",
+    "discoverMore": "اكتشف المزيد",
+    "exploreAll": "استكشف الكل",
+    "viewAllProducts": "عرض جميع المنتجات",
+    "previous": "السابق",
+    "next": "التالي",
+    "quickView": "عرض سريع"
+  },
+
+  "home": {
+    "todaysDeals": "عروض اليوم",
+    "topPicks": "أفضل الاختيارات لك",
+    "recommended": "موصى به لك",
+    "bestSellers": "الأكثر مبيعاً",
+    "gaming": "ملحقات الألعاب",
+    "fashion": "عروض الأزياء",
+    "beauty": "منتجات الجمال",
+    "homeEssentials": "أساسيات المنزل",
+    "newArrivals": "وصل حديثاً",
+    "refreshSpace": "جدّد منزلك",
+    "noProducts": "لم يتم العثور على منتجات"
+  },
+
+  "filters": {
+    "title": "الفلاتر",
+    "price": "السعر",
+    "allPrices": "كل الأسعار",
+    "under50": "أقل من 50 دولار",
+    "between": "50 - 100 دولار",
+    "above100": "أكثر من 100 دولار",
+    "sortBy": "ترتيب حسب",
+    "featured": "مميز",
+    "lowHigh": "السعر: من الأقل إلى الأعلى",
+    "highLow": "السعر: من الأعلى إلى الأقل",
+    "highestRated": "الأعلى تقييماً"
+  },
+
+  "footer": {
+    "backToTop": "العودة إلى الأعلى"
+    
+  },
+
+  "promo": {
+  "gamingAccessories": "Gaming Accessories",
+  "fashionDeals": "Fashion Deals",
+  "homeEssentials": "Home Essentials",
+  "beautyPicks": "Beauty Picks",
+  "shopGaming": "Shop Gaming",
+  "seeAllDeals": "See All Deals",
+  "discoverMore": "Discover More",
+  "exploreNow": "Explore Now"
+}
+
+  
+}

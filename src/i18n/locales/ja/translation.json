@@ -1,0 +1,71 @@
+{
+  "navbar": {
+    "search": "商品を検索...",
+    "deliverTo": "お届け先",
+    "wishlist": "ほしい物リスト",
+    "cart": "カート",
+    "returns": "返品",
+    "orders": "注文",
+    "hello": "こんにちは",
+    "signin": "サインイン",
+    "signout": "サインアウト",
+    "account": "アカウント＆リスト",
+    "all": "すべて"
+  },
+
+  "buttons": {
+    "addToCart": "カートに追加",
+    "addToWishlist": "ほしい物リストに追加",
+    "shopNow": "今すぐ購入",
+    "seeMore": "もっと見る",
+    "discoverMore": "さらに見る",
+    "exploreAll": "すべて見る",
+    "viewAllProducts": "すべての商品を見る",
+    "previous": "前へ",
+    "next": "次へ",
+    "quickView": "クイックビュー"
+  },
+
+  "home": {
+    "todaysDeals": "本日のセール",
+    "topPicks": "おすすめ商品",
+    "recommended": "あなたへのおすすめ",
+    "bestSellers": "ベストセラー",
+    "gaming": "ゲームアクセサリー",
+    "fashion": "ファッションセール",
+    "beauty": "ビューティー商品",
+    "homeEssentials": "ホーム用品",
+    "newArrivals": "新着商品",
+    "refreshSpace": "お部屋をリフレッシュ",
+    "noProducts": "商品が見つかりません"
+  },
+
+  "filters": {
+    "title": "フィルター",
+    "price": "価格",
+    "allPrices": "すべての価格",
+    "under50": "$50未満",
+    "between": "$50〜$100",
+    "above100": "$100以上",
+    "sortBy": "並び替え",
+    "featured": "おすすめ",
+    "lowHigh": "価格：安い順",
+    "highLow": "価格：高い順",
+    "highestRated": "評価の高い順"
+  },
+
+  "footer": {
+    "backToTop": "トップへ戻る"
+  },
+
+  "promo": {
+  "gamingAccessories": "Gaming Accessories",
+  "fashionDeals": "Fashion Deals",
+  "homeEssentials": "Home Essentials",
+  "beautyPicks": "Beauty Picks",
+  "shopGaming": "Shop Gaming",
+  "seeAllDeals": "See All Deals",
+  "discoverMore": "Discover More",
+  "exploreNow": "Explore Now"
+}
+}
