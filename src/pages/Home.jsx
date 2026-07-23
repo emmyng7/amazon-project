@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import { ProductContext } from "../context/ProductContext";
 import { Link } from "react-router-dom";
 import Hero from "../components/Hero/Hero";
-import PromoGrid from "../components/PromoGrid/PromoGrid";
+import PromoGrid from "../components/promoGrid/promoGrid";
 import TodaysDeals from "../components/TodaysDeals/TodaysDeals";
 import ProductSlider from "../components/ProductSlider/ProductSlider";
 import PromoSection from "../components/PromoSection/PromoSection";
